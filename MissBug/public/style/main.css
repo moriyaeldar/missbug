@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(181, 223, 173, 0.897);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    cursor: pointer;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    margin: 25px;
+}
+
+header{
+    display: flex;
+}
+
+thead{
+    background-color: rgba(18, 36, 18, 0.753);
+    color: darkgrey;
+}
+
+a{
+    font-style: unset;
+    color: teal;
+}
+
+a:hover{
+    color: slategrey;
+    font-style: italic;
+}

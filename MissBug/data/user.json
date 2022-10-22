@@ -1,0 +1,39 @@
+[
+  {
+    "username": "Dror",
+    "password": "dddd",
+    "fullname": "Dror Samuels",
+    "_id": "fgs35",
+    "isAdmin": true
+  },
+  {
+    "username": "Shimon",
+    "password": "ssss",
+    "fullname": "Shimon Moshe",
+    "_id": "gerge555"
+  },
+  {
+    "username": "Maya",
+    "password": "mmmm",
+    "fullname": "Maya Sombrrow",
+    "_id": "wLneI"
+  },
+  {
+    "username": "moriya",
+    "password": "mmmm",
+    "fullname": "Moriya eldar",
+    "_id": "kDv7ex"
+  },
+  {
+    "username": "tvuyibin",
+    "password": "tfyguhijo",
+    "fullname": "ug o;o",
+    "_id": "MJqEuR"
+  },
+  {
+    "username": "moriya",
+    "password": "mmmm",
+    "fullname": "Moriya eldar",
+    "_id": "7dCZnW"
+  }
+]
